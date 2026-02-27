@@ -1,0 +1,1 @@
+The MAN comes through the threshold into the dunes following the JACKETED MAN. When he emerges he can't find him but he can see footsteps so he follows. We can have cool visual set pieces or whatever, him crawling through the buried structures etc. He comes to where the footsteps end and it will be the entrance to the next place. Dash wanted 
