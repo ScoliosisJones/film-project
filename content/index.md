@@ -37,3 +37,6 @@ Each section mapped out very generally. Language and writing is rough and unpoli
 - [[4.0 General Map]] - Very early stages of ideation.
 
 NOTE: These events do not take place in any sort of realistic physical space. These areas are thought out as taking place within the mind.
+
+
+Additionally: I do not know how to write screenplays nor do I know the proper formatting. These are my best guesses with no desire to properly format myself as the time sink is not worth it to me.
