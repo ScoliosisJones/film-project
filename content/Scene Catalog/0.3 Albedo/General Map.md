@@ -7,4 +7,6 @@ We find the JACKETED MAN mauled, barely alive, holding a hunting rifle. As the s
 
 Ego will take the gun and the jacket and move on to the final destination, to confront the ID. Could be the flood channel.
 
+He takes the jacket and notices the bullets weighing down his pocket. Three bullets. He loads one and moves on.
+
 [[Scene Catalog/0.4 Rubedo/General Map]]
