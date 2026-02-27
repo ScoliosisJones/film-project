@@ -1,0 +1,10 @@
+![[Pasted image 20260226234319.png]]
+
+
+Snow stained red. The trees are bleeding. As in the [Wood of Suicides](https://en.wikipedia.org/wiki/The_Wood_of_the_Self-Murderers:_The_Harpies_and_the_Suicides) of dante's inferno.
+
+We find the JACKETED MAN mauled, barely alive, holding a hunting rifle. As the superego he should criticize ego harshly and condemn him for his continued failure to complete the great work, to integrate the ID, to control it. The ID has shut out the superego once again and is now dying again.
+
+Ego will take the gun and the jacket and move on to the final destination, to confront the ID. Could be the flood channel.
+
+[[Scene Catalog/0.4 Rubedo/General Map]]

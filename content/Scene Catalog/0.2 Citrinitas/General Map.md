@@ -12,6 +12,10 @@ come out into another part of the dunes, explore yada yada arial shot, following
 
 Want to explore Newberry Springs for sure, we can be reintroducing our pursuer or other creatures we want in the film.
 
+This will lead into the forest.
+
+[[Scene Catalog/0.3 Albedo/General Map]]
+
 
 ![[2-22-26-15.jpg]]
 
