@@ -12,3 +12,7 @@ Welcome.
 - [[Themes/Alchemy]]
 - [[Themes/Light]]
 - [[Themes/The Psychic Apparatus]]
+
+## Canvas
+
+- [Themes](Canvas_Themes.png)
