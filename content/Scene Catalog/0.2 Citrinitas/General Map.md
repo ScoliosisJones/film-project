@@ -1,4 +1,27 @@
 The MAN comes through the threshold into the dunes following the JACKETED MAN. When he emerges he can't find him but he can see footsteps so he follows. We can have cool visual set pieces or whatever, him crawling through the buried structures etc. He comes to where the footsteps end and it will be the entrance to the next place. Dash wanted the fridge vehicle like the dark souls coffin that can be here.
 
 
+![[IMG_2235.jpg]]
+
+
+come out into another part of the dunes, explore yada yada arial shot, following the footsteps, maybe this time he exits through a bush and comes out through one of the large trees in Newberry Springs.
+
+
+![[2-22-26-10.jpg]]
+
+
+Want to explore Newberry Springs for sure, we can be reintroducing our pursuer or other creatures we want in the film.
+
+
+![[2-22-26-15.jpg]]
+
+
+![[2-22-26-12.jpg]]
+
+
+![[2-22-26-13.jpg]]
+
+
+![[2-22-26-16.jpg]]
+
 

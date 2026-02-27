@@ -1,7 +1,5 @@
 {
 	"nodes":[
-		{"id":"d52b9d8cb9951332","type":"file","file":"Themes/Light.md","x":-1000,"y":-540,"width":400,"height":420},
-		{"id":"e9658656a3e6b64c","type":"file","file":"Themes/The Psychic Apparatus.md","x":-560,"y":-540,"width":400,"height":420},
 		{"id":"b36fc4361b0ce118","type":"file","file":"Themes/Alchemy.md","x":-780,"y":-100,"width":400,"height":400},
 		{"id":"9755ae232360be20","type":"text","text":"Integration of opposites","x":-115,"y":442,"width":250,"height":60},
 		{"id":"78cf1e0147252e36","type":"text","text":"The first stage - the blackening - awareness of the shadow self","x":-1218,"y":442,"width":239,"height":89},
@@ -11,7 +9,9 @@
 		{"id":"78fbb5f6968f64f2","type":"file","file":"Scene Catalog/0.4 Rubedo/The Palace.md","x":80,"y":705,"width":400,"height":400},
 		{"id":"8e276c79cc5838df","type":"text","text":"The purification and and establishment of insight. The spiritualization of the body. The world expands in one's mind beyond just the ego.","x":-505,"y":442,"width":250,"height":191},
 		{"id":"ffee52b350693fb9","type":"file","file":"Scene Catalog/0.3 Albedo/The Forest.md","x":-455,"y":705,"width":400,"height":400},
-		{"id":"1c25b14f65c91053","type":"file","file":"Scene Catalog/0.1 Nigredo/1.2 The Crawl.md","x":-1720,"y":1260,"width":400,"height":400}
+		{"id":"1c25b14f65c91053","type":"file","file":"Scene Catalog/0.1 Nigredo/1.2 The Crawl.md","x":-1720,"y":1260,"width":400,"height":400},
+		{"id":"d52b9d8cb9951332","type":"file","file":"Themes/Light.md","x":-1000,"y":-560,"width":400,"height":420},
+		{"id":"e9658656a3e6b64c","type":"file","file":"Themes/The Psychic Apparatus.md","x":-560,"y":-560,"width":400,"height":420}
 	],
 	"edges":[
 		{"id":"be3cc8a8c46bebf8","fromNode":"b36fc4361b0ce118","fromSide":"bottom","toNode":"9755ae232360be20","toSide":"top"},
@@ -22,16 +22,7 @@
 		{"id":"519e12f3da67a13c","fromNode":"c778d4c9004e9645","fromSide":"bottom","toNode":"a8d96418ec22bf41","toSide":"top"},
 		{"id":"e26349efa6c7dbdd","fromNode":"8e276c79cc5838df","fromSide":"bottom","toNode":"ffee52b350693fb9","toSide":"top"},
 		{"id":"bae1c318b2ee1425","fromNode":"9755ae232360be20","fromSide":"bottom","toNode":"78fbb5f6968f64f2","toSide":"top"},
-		{"id":"695959ce56bea0c2","fromNode":"6092c94e7c7c5f0b","fromSide":"bottom","toNode":"1c25b14f65c91053","toSide":"top"},
-		{
-			"id":"c8bcab29dbe809f0",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"a8d96418ec22bf41",
-			"fromSide":"bottom",
-			"toNode":"39d368dcfc142923",
-			"toSide":"top"
-		}
+		{"id":"695959ce56bea0c2","fromNode":"6092c94e7c7c5f0b","fromSide":"bottom","toNode":"1c25b14f65c91053","toSide":"top"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
