@@ -1,0 +1,39 @@
+# Apparatus - The View from the Bottom
+
+My take on the short from the perspective of the victim.
+Placeholder title of course
+## Maps
+
+Each section mapped out very generally. Language and writing is rough and unpolished.
+
+- [[1.0 General Map]] - Yet to map out, as the first scenes are mostly laid out already.
+- [[2.0 General Map]]
+- [[3.0 General Map]]
+- [[4.0 General Map]] - Very early stages of ideation..
+## Themes
+
+The themes that stay stuck in my mind while thinking about this story.
+
+- [[Alchemy]]
+- [[Light]]
+- [[The Psychic Apparatus]]
+## Canvas
+
+A visual flow chart of ideas.
+
+- [Themes](Canvas_Themes.png)
+## Scene Catalog 
+
+Some rough outlines of my ideas for the major scenes in our short.
+
+- [[1.1 The Crash]]
+- [[1.2 The Crawl]]
+- [[2.1 The Threshold]]
+- [[2.2 The Dunes]]
+- [[3.1 The Forest]]
+- [[4.1 The Palace]]
+
+NOTE: These events do not take place in any sort of realistic physical space. These areas are thought out as taking place within the mind.
+
+
+Additionally: I do not know how to write screenplays nor do I know the proper formatting. These are my best guesses with no desire to properly format myself as the time sink is not worth it to me.
